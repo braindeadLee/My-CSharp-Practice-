@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\bin\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.exe
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\bin\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.deps.json
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\bin\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.runtimeconfig.json
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\bin\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.dll
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\bin\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.pdb
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.sourcelink.json
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.dll
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\refint\2 - Arithmetic - Calculate Final GPA.dll
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.pdb
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\2 - Arithmetic - Calculate Final GPA.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CSharpPracticeRepo\2 - Arithmetic - Calculate Final GPA\2 - Arithmetic - Calculate Final GPA\obj\Debug\net8.0\ref\2 - Arithmetic - Calculate Final GPA.dll
