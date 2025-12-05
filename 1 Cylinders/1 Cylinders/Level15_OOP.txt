@@ -1,0 +1,8 @@
+﻿OOP is meant to split a single program into multiple manageable components
+
+Each object contains a set of methods and variables
+
+Every objects belongs to a class
+
+Objects of a class are often called instances of the class
+

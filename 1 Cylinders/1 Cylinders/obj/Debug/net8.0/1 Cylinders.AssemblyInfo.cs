@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1 Cylinders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3adaf14f6e7d80488c298e66613a2b9a4a389aab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81802f980d247c5f2296daf74479a9f8ba838cca")]
 [assembly: System.Reflection.AssemblyProductAttribute("1 Cylinders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1 Cylinders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
